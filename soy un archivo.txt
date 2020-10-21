@@ -1,5 +1,4 @@
 soy un texto
-
-
-
-soy otra linea mas
+borre varias lineas
+y agregue estas 3
+para el ejemplo
